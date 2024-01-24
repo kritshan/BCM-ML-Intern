@@ -1,0 +1,1 @@
+Hey! This is a repository containing my code for my internship research at Baylor College of Medicine. I focus on applying ML algorithms to single-cell genomic data and using explainable AI to derive insights about how the algorithms operate. 
